@@ -16,8 +16,6 @@ This is a simple React application for summarizing articles. Users can input a U
 4. Start the development server:
    npm run dev
 
-5. Open your browser and visit http://localhost:3000 to use the application.
-
 ## Features
 
 - Summarize Articles: Enter the URL of an article, and the application will fetch and display a summary for you.
